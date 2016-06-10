@@ -6,9 +6,9 @@
 
 
     <parent>
-        <groupId>org.sbforge</groupId>
-        <artifactId>sbforge-parent</artifactId>
-        <version>18</version>
+        <groupId>dk.statsbiblioteket.sbprojects</groupId>
+        <artifactId>sbprojects-parent</artifactId>
+        <version>4</version>
     </parent>
 
     <groupId>com.enonic.harvest</groupId>
